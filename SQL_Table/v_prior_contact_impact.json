@@ -1,0 +1,72 @@
+[
+	{
+		"impact_type" : "previous_contact",
+		"impact_value" : "Previously Contacted",
+		"total_calls" : 5625,
+		"success_calls" : 1499,
+		"success_rate" : 26.65
+	},
+	{
+		"impact_type" : "previous_contact",
+		"impact_value" : "New Client",
+		"total_calls" : 35551,
+		"success_calls" : 3140,
+		"success_rate" : 8.83
+	},
+	{
+		"impact_type" : "previous_poutcome",
+		"impact_value" : "failure",
+		"total_calls" : 4252,
+		"success_calls" : 605,
+		"success_rate" : 14.23
+	},
+	{
+		"impact_type" : "previous_poutcome",
+		"impact_value" : "success",
+		"total_calls" : 1373,
+		"success_calls" : 894,
+		"success_rate" : 65.11
+	},
+	{
+		"impact_type" : "previous_failure",
+		"impact_value" : "1",
+		"total_calls" : 3696,
+		"success_calls" : 451,
+		"success_rate" : 12.20
+	},
+	{
+		"impact_type" : "previous_failure",
+		"impact_value" : "2",
+		"total_calls" : 434,
+		"success_calls" : 112,
+		"success_rate" : 25.81
+	},
+	{
+		"impact_type" : "previous_failure",
+		"impact_value" : "3",
+		"total_calls" : 88,
+		"success_calls" : 32,
+		"success_rate" : 36.36
+	},
+	{
+		"impact_type" : "previous_failure",
+		"impact_value" : "4",
+		"total_calls" : 30,
+		"success_calls" : 9,
+		"success_rate" : 30.00
+	},
+	{
+		"impact_type" : "previous_failure",
+		"impact_value" : "5",
+		"total_calls" : 3,
+		"success_calls" : 1,
+		"success_rate" : 33.33
+	},
+	{
+		"impact_type" : "previous_failure",
+		"impact_value" : "6",
+		"total_calls" : 1,
+		"success_calls" : 0,
+		"success_rate" : 0.00
+	}
+]

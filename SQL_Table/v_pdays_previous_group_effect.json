@@ -1,0 +1,32 @@
+[
+	{
+		"previous_group" : "1 previous contact",
+		"pdays_group" : "New client",
+		"total_calls" : 3696,
+		"success_rate" : 12.20
+	},
+	{
+		"previous_group" : "2+ previous contacts",
+		"pdays_group" : "Recently contacted",
+		"total_calls" : 650,
+		"success_rate" : 69.38
+	},
+	{
+		"previous_group" : "2+ previous contacts",
+		"pdays_group" : "New client",
+		"total_calls" : 414,
+		"success_rate" : 19.57
+	},
+	{
+		"previous_group" : "No previous contact",
+		"pdays_group" : "New client",
+		"total_calls" : 35551,
+		"success_rate" : 8.83
+	},
+	{
+		"previous_group" : "1 previous contact",
+		"pdays_group" : "Recently contacted",
+		"total_calls" : 865,
+		"success_rate" : 59.65
+	}
+]

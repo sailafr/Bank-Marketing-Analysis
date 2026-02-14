@@ -1,0 +1,74 @@
+[
+	{
+		"duration_group" : "9 min",
+		"total_calls" : 1014,
+		"success_calls" : 247,
+		"success_rate" : 24.36
+	},
+	{
+		"duration_group" : "2 min",
+		"total_calls" : 8628,
+		"success_calls" : 165,
+		"success_rate" : 1.91
+	},
+	{
+		"duration_group" : "4 min",
+		"total_calls" : 5475,
+		"success_calls" : 488,
+		"success_rate" : 8.91
+	},
+	{
+		"duration_group" : "> 10 min",
+		"total_calls" : 3464,
+		"success_calls" : 1684,
+		"success_rate" : 48.61
+	},
+	{
+		"duration_group" : "8 min",
+		"total_calls" : 1332,
+		"success_calls" : 261,
+		"success_rate" : 19.59
+	},
+	{
+		"duration_group" : "3 min",
+		"total_calls" : 7784,
+		"success_calls" : 398,
+		"success_rate" : 5.11
+	},
+	{
+		"duration_group" : "7 min",
+		"total_calls" : 1900,
+		"success_calls" : 319,
+		"success_rate" : 16.79
+	},
+	{
+		"duration_group" : "5 min",
+		"total_calls" : 3803,
+		"success_calls" : 465,
+		"success_rate" : 12.23
+	},
+	{
+		"duration_group" : "10 min",
+		"total_calls" : 810,
+		"success_calls" : 247,
+		"success_rate" : 30.49
+	},
+	{
+		"duration_group" : "6 min",
+		"total_calls" : 2682,
+		"success_calls" : 364,
+		"success_rate" : 13.57
+	},
+	{
+		"duration_group" : "1 min",
+		"total_calls" : 4280,
+		"success_calls" : 1,
+		"success_rate" : 0.02
+	},
+	{
+		"duration_group" : "0 sec",
+		"total_calls" : 4,
+		"success_calls" : 0,
+		"success_rate" : 0.00
+	}
+]

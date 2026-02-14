@@ -1,0 +1,65 @@
+[
+	{
+		"Age_Group" : ">60",
+		"total_calls" : 909,
+		"success_calls" : 414,
+		"percent_of_succes" : 45.54,
+		"avg_campaign" : 1.97
+	},
+	{
+		"Age_Group" : "20-24",
+		"total_calls" : 927,
+		"success_calls" : 199,
+		"percent_of_succes" : 21.47,
+		"avg_campaign" : 2.35
+	},
+	{
+		"Age_Group" : "25-29",
+		"total_calls" : 4600,
+		"success_calls" : 666,
+		"percent_of_succes" : 14.48,
+		"avg_campaign" : 2.50
+	},
+	{
+		"Age_Group" : "55-60",
+		"total_calls" : 3319,
+		"success_calls" : 383,
+		"percent_of_succes" : 11.54,
+		"avg_campaign" : 2.68
+	},
+	{
+		"Age_Group" : "30-34",
+		"total_calls" : 9084,
+		"success_calls" : 1000,
+		"percent_of_succes" : 11.01,
+		"avg_campaign" : 2.55
+	},
+	{
+		"Age_Group" : "50-54",
+		"total_calls" : 3825,
+		"success_calls" : 372,
+		"percent_of_succes" : 9.73,
+		"avg_campaign" : 2.69
+	},
+	{
+		"Age_Group" : "35-39",
+		"total_calls" : 7849,
+		"success_calls" : 715,
+		"percent_of_succes" : 9.11,
+		"avg_campaign" : 2.58
+	},
+	{
+		"Age_Group" : "40-44",
+		"total_calls" : 5646,
+		"success_calls" : 453,
+		"percent_of_succes" : 8.02,
+		"avg_campaign" : 2.61
+	},
+	{
+		"Age_Group" : "45-49",
+		"total_calls" : 4877,
+		"success_calls" : 380,
+		"percent_of_succes" : 7.79,
+		"avg_campaign" : 2.60
+	}
+]

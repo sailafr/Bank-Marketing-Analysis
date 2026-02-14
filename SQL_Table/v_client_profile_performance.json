@@ -1,0 +1,450 @@
+[
+	{
+		"segment_type" : "age",
+		"segment_value" : "26",
+		"total_calls" : 698,
+		"success_calls" : 122,
+		"percent_of_succes" : 17.48,
+		"avg_campaign" : 2.48
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "25",
+		"total_calls" : 598,
+		"success_calls" : 93,
+		"percent_of_succes" : 15.55,
+		"avg_campaign" : 2.91
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "28",
+		"total_calls" : 1001,
+		"success_calls" : 151,
+		"percent_of_succes" : 15.08,
+		"avg_campaign" : 2.33
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "27",
+		"total_calls" : 850,
+		"success_calls" : 114,
+		"percent_of_succes" : 13.41,
+		"avg_campaign" : 2.49
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "29",
+		"total_calls" : 1453,
+		"success_calls" : 186,
+		"percent_of_succes" : 12.80,
+		"avg_campaign" : 2.46
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "30",
+		"total_calls" : 1714,
+		"success_calls" : 202,
+		"percent_of_succes" : 11.79,
+		"avg_campaign" : 2.73
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "33",
+		"total_calls" : 1833,
+		"success_calls" : 210,
+		"percent_of_succes" : 11.46,
+		"avg_campaign" : 2.45
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "56",
+		"total_calls" : 704,
+		"success_calls" : 80,
+		"percent_of_succes" : 11.36,
+		"avg_campaign" : 2.75
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "31",
+		"total_calls" : 1947,
+		"success_calls" : 220,
+		"percent_of_succes" : 11.30,
+		"avg_campaign" : 2.52
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "34",
+		"total_calls" : 1745,
+		"success_calls" : 184,
+		"percent_of_succes" : 10.54,
+		"avg_campaign" : 2.49
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "52",
+		"total_calls" : 779,
+		"success_calls" : 81,
+		"percent_of_succes" : 10.40,
+		"avg_campaign" : 2.68
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "38",
+		"total_calls" : 1407,
+		"success_calls" : 143,
+		"percent_of_succes" : 10.16,
+		"avg_campaign" : 2.55
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "58",
+		"total_calls" : 576,
+		"success_calls" : 58,
+		"percent_of_succes" : 10.07,
+		"avg_campaign" : 2.64
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "32",
+		"total_calls" : 1845,
+		"success_calls" : 184,
+		"percent_of_succes" : 9.97,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "50",
+		"total_calls" : 875,
+		"success_calls" : 87,
+		"percent_of_succes" : 9.94,
+		"avg_campaign" : 2.68
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "48",
+		"total_calls" : 979,
+		"success_calls" : 97,
+		"percent_of_succes" : 9.91,
+		"avg_campaign" : 2.59
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "57",
+		"total_calls" : 646,
+		"success_calls" : 62,
+		"percent_of_succes" : 9.60,
+		"avg_campaign" : 2.73
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "51",
+		"total_calls" : 754,
+		"success_calls" : 72,
+		"percent_of_succes" : 9.55,
+		"avg_campaign" : 2.47
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "35",
+		"total_calls" : 1758,
+		"success_calls" : 167,
+		"percent_of_succes" : 9.50,
+		"avg_campaign" : 2.55
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "54",
+		"total_calls" : 684,
+		"success_calls" : 64,
+		"percent_of_succes" : 9.36,
+		"avg_campaign" : 2.75
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "37",
+		"total_calls" : 1475,
+		"success_calls" : 137,
+		"percent_of_succes" : 9.29,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "53",
+		"total_calls" : 733,
+		"success_calls" : 68,
+		"percent_of_succes" : 9.28,
+		"avg_campaign" : 2.89
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "41",
+		"total_calls" : 1277,
+		"success_calls" : 113,
+		"percent_of_succes" : 8.85,
+		"avg_campaign" : 2.50
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "36",
+		"total_calls" : 1779,
+		"success_calls" : 154,
+		"percent_of_succes" : 8.66,
+		"avg_campaign" : 2.62
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "55",
+		"total_calls" : 647,
+		"success_calls" : 56,
+		"percent_of_succes" : 8.66,
+		"avg_campaign" : 2.55
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "43",
+		"total_calls" : 1055,
+		"success_calls" : 88,
+		"percent_of_succes" : 8.34,
+		"avg_campaign" : 2.72
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "45",
+		"total_calls" : 1102,
+		"success_calls" : 91,
+		"percent_of_succes" : 8.26,
+		"avg_campaign" : 2.49
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "39",
+		"total_calls" : 1430,
+		"success_calls" : 114,
+		"percent_of_succes" : 7.97,
+		"avg_campaign" : 2.60
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "42",
+		"total_calls" : 1142,
+		"success_calls" : 91,
+		"percent_of_succes" : 7.97,
+		"avg_campaign" : 2.57
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "46",
+		"total_calls" : 1030,
+		"success_calls" : 79,
+		"percent_of_succes" : 7.67,
+		"avg_campaign" : 2.67
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "44",
+		"total_calls" : 1011,
+		"success_calls" : 77,
+		"percent_of_succes" : 7.62,
+		"avg_campaign" : 2.62
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "40",
+		"total_calls" : 1161,
+		"success_calls" : 84,
+		"percent_of_succes" : 7.24,
+		"avg_campaign" : 2.65
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "49",
+		"total_calls" : 839,
+		"success_calls" : 55,
+		"percent_of_succes" : 6.56,
+		"avg_campaign" : 2.61
+	},
+	{
+		"segment_type" : "age",
+		"segment_value" : "47",
+		"total_calls" : 927,
+		"success_calls" : 58,
+		"percent_of_succes" : 6.26,
+		"avg_campaign" : 2.66
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "student",
+		"total_calls" : 875,
+		"success_calls" : 275,
+		"percent_of_succes" : 31.43,
+		"avg_campaign" : 2.10
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "retired",
+		"total_calls" : 1718,
+		"success_calls" : 434,
+		"percent_of_succes" : 25.26,
+		"avg_campaign" : 2.48
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "unemployed",
+		"total_calls" : 1014,
+		"success_calls" : 144,
+		"percent_of_succes" : 14.20,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "admin.",
+		"total_calls" : 10419,
+		"success_calls" : 1351,
+		"percent_of_succes" : 12.97,
+		"avg_campaign" : 2.62
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "management",
+		"total_calls" : 2924,
+		"success_calls" : 328,
+		"percent_of_succes" : 11.22,
+		"avg_campaign" : 2.48
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "unknown",
+		"total_calls" : 330,
+		"success_calls" : 37,
+		"percent_of_succes" : 11.21,
+		"avg_campaign" : 2.65
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "technician",
+		"total_calls" : 6739,
+		"success_calls" : 730,
+		"percent_of_succes" : 10.83,
+		"avg_campaign" : 2.58
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "self-employed",
+		"total_calls" : 1421,
+		"success_calls" : 149,
+		"percent_of_succes" : 10.49,
+		"avg_campaign" : 2.66
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "housemaid",
+		"total_calls" : 1060,
+		"success_calls" : 106,
+		"percent_of_succes" : 10.00,
+		"avg_campaign" : 2.64
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "entrepreneur",
+		"total_calls" : 1456,
+		"success_calls" : 124,
+		"percent_of_succes" : 8.52,
+		"avg_campaign" : 2.54
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "services",
+		"total_calls" : 3967,
+		"success_calls" : 323,
+		"percent_of_succes" : 8.14,
+		"avg_campaign" : 2.59
+	},
+	{
+		"segment_type" : "job",
+		"segment_value" : "blue-collar",
+		"total_calls" : 9253,
+		"success_calls" : 638,
+		"percent_of_succes" : 6.90,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "unknown",
+		"total_calls" : 1730,
+		"success_calls" : 251,
+		"percent_of_succes" : 14.51,
+		"avg_campaign" : 2.60
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "university.degree",
+		"total_calls" : 12164,
+		"success_calls" : 1669,
+		"percent_of_succes" : 13.72,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "professional.course",
+		"total_calls" : 5240,
+		"success_calls" : 595,
+		"percent_of_succes" : 11.35,
+		"avg_campaign" : 2.59
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "high.school",
+		"total_calls" : 9512,
+		"success_calls" : 1031,
+		"percent_of_succes" : 10.84,
+		"avg_campaign" : 2.57
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "basic.4y",
+		"total_calls" : 4176,
+		"success_calls" : 428,
+		"percent_of_succes" : 10.25,
+		"avg_campaign" : 2.60
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "basic.6y",
+		"total_calls" : 2291,
+		"success_calls" : 188,
+		"percent_of_succes" : 8.21,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "education",
+		"segment_value" : "basic.9y",
+		"total_calls" : 6045,
+		"success_calls" : 473,
+		"percent_of_succes" : 7.82,
+		"avg_campaign" : 2.53
+	},
+	{
+		"segment_type" : "loan",
+		"segment_value" : "no",
+		"total_calls" : 33938,
+		"success_calls" : 3849,
+		"percent_of_succes" : 11.34,
+		"avg_campaign" : 2.56
+	},
+	{
+		"segment_type" : "loan",
+		"segment_value" : "yes",
+		"total_calls" : 6248,
+		"success_calls" : 683,
+		"percent_of_succes" : 10.93,
+		"avg_campaign" : 2.60
+	},
+	{
+		"segment_type" : "loan",
+		"segment_value" : "unknown",
+		"total_calls" : 990,
+		"success_calls" : 107,
+		"percent_of_succes" : 10.81,
+		"avg_campaign" : 2.56
+	}
+]

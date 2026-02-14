@@ -1,0 +1,170 @@
+[
+	{
+		"campaign" : 1,
+		"count(*)" : 17634
+	},
+	{
+		"campaign" : 2,
+		"count(*)" : 10568
+	},
+	{
+		"campaign" : 3,
+		"count(*)" : 5340
+	},
+	{
+		"campaign" : 4,
+		"count(*)" : 2650
+	},
+	{
+		"campaign" : 5,
+		"count(*)" : 1599
+	},
+	{
+		"campaign" : 6,
+		"count(*)" : 979
+	},
+	{
+		"campaign" : 7,
+		"count(*)" : 629
+	},
+	{
+		"campaign" : 8,
+		"count(*)" : 400
+	},
+	{
+		"campaign" : 9,
+		"count(*)" : 283
+	},
+	{
+		"campaign" : 10,
+		"count(*)" : 225
+	},
+	{
+		"campaign" : 11,
+		"count(*)" : 177
+	},
+	{
+		"campaign" : 12,
+		"count(*)" : 125
+	},
+	{
+		"campaign" : 13,
+		"count(*)" : 92
+	},
+	{
+		"campaign" : 14,
+		"count(*)" : 69
+	},
+	{
+		"campaign" : 15,
+		"count(*)" : 51
+	},
+	{
+		"campaign" : 16,
+		"count(*)" : 51
+	},
+	{
+		"campaign" : 17,
+		"count(*)" : 58
+	},
+	{
+		"campaign" : 18,
+		"count(*)" : 33
+	},
+	{
+		"campaign" : 19,
+		"count(*)" : 26
+	},
+	{
+		"campaign" : 20,
+		"count(*)" : 30
+	},
+	{
+		"campaign" : 21,
+		"count(*)" : 24
+	},
+	{
+		"campaign" : 22,
+		"count(*)" : 17
+	},
+	{
+		"campaign" : 23,
+		"count(*)" : 16
+	},
+	{
+		"campaign" : 24,
+		"count(*)" : 15
+	},
+	{
+		"campaign" : 25,
+		"count(*)" : 8
+	},
+	{
+		"campaign" : 26,
+		"count(*)" : 8
+	},
+	{
+		"campaign" : 27,
+		"count(*)" : 11
+	},
+	{
+		"campaign" : 28,
+		"count(*)" : 8
+	},
+	{
+		"campaign" : 29,
+		"count(*)" : 10
+	},
+	{
+		"campaign" : 30,
+		"count(*)" : 7
+	},
+	{
+		"campaign" : 31,
+		"count(*)" : 7
+	},
+	{
+		"campaign" : 32,
+		"count(*)" : 4
+	},
+	{
+		"campaign" : 33,
+		"count(*)" : 4
+	},
+	{
+		"campaign" : 34,
+		"count(*)" : 3
+	},
+	{
+		"campaign" : 35,
+		"count(*)" : 5
+	},
+	{
+		"campaign" : 37,
+		"count(*)" : 1
+	},
+	{
+		"campaign" : 39,
+		"count(*)" : 1
+	},
+	{
+		"campaign" : 40,
+		"count(*)" : 2
+	},
+	{
+		"campaign" : 41,
+		"count(*)" : 1
+	},
+	{
+		"campaign" : 42,
+		"count(*)" : 2
+	},
+	{
+		"campaign" : 43,
+		"count(*)" : 2
+	},
+	{
+		"campaign" : 56,
+		"count(*)" : 1
+	}
+]

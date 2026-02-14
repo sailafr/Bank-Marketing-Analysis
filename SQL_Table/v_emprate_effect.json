@@ -1,0 +1,20 @@
+[
+	{
+		"y" : "yes",
+		"total_calls" : 4639,
+		"avg_emp_var_rate" : -1.23,
+		"avg_cons_price" : 93.35,
+		"avg_cons_conf" : -39.79,
+		"avg_euribor" : 2.12,
+		"avg_nr_employed" : 5095
+	},
+	{
+		"y" : "no",
+		"total_calls" : 36537,
+		"avg_emp_var_rate" : 0.25,
+		"avg_cons_price" : 93.6,
+		"avg_cons_conf" : -40.59,
+		"avg_euribor" : 3.81,
+		"avg_nr_employed" : 5176
+	}
+]

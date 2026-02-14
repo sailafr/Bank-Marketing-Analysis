@@ -1,0 +1,104 @@
+[
+	{
+		"timing_type" : "contact",
+		"timing_value" : "cellular",
+		"total_calls" : 26135,
+		"success_rate" : 14.74
+	},
+	{
+		"timing_type" : "contact",
+		"timing_value" : "telephone",
+		"total_calls" : 15041,
+		"success_rate" : 5.23
+	},
+	{
+		"timing_type" : "weekday",
+		"timing_value" : "fri",
+		"total_calls" : 7826,
+		"success_rate" : 10.81
+	},
+	{
+		"timing_type" : "weekday",
+		"timing_value" : "tue",
+		"total_calls" : 8086,
+		"success_rate" : 11.79
+	},
+	{
+		"timing_type" : "weekday",
+		"timing_value" : "wed",
+		"total_calls" : 8134,
+		"success_rate" : 11.67
+	},
+	{
+		"timing_type" : "weekday",
+		"timing_value" : "thu",
+		"total_calls" : 8618,
+		"success_rate" : 12.11
+	},
+	{
+		"timing_type" : "weekday",
+		"timing_value" : "mon",
+		"total_calls" : 8512,
+		"success_rate" : 9.95
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "mar",
+		"total_calls" : 546,
+		"success_rate" : 50.55
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "dec",
+		"total_calls" : 182,
+		"success_rate" : 48.90
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "sep",
+		"total_calls" : 570,
+		"success_rate" : 44.91
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "oct",
+		"total_calls" : 717,
+		"success_rate" : 43.93
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "apr",
+		"total_calls" : 2631,
+		"success_rate" : 20.49
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "aug",
+		"total_calls" : 6176,
+		"success_rate" : 10.61
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "jun",
+		"total_calls" : 5318,
+		"success_rate" : 10.51
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "nov",
+		"total_calls" : 4100,
+		"success_rate" : 10.15
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "jul",
+		"total_calls" : 7169,
+		"success_rate" : 9.04
+	},
+	{
+		"timing_type" : "month",
+		"timing_value" : "may",
+		"total_calls" : 13767,
+		"success_rate" : 6.44
+	}
+]
